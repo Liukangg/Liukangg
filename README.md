@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Liukangg
+### What's goodie?
+- 🖤 I’m @Liukangg
 - 👀 I’m interested in the way programmers think
 - 🌱 I’m currently learning python and visualbasic
 
